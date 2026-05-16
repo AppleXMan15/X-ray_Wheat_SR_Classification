@@ -90,7 +90,7 @@ The datasets used in this project are stored in cloud storage:
 
 
 
-\- \[All Unmarked X-ray images](https://drive.google.com/drive/folders/1lQnqOzhoF\_lGcbVF0\_69k9Y0o50ZEL2Q?usp=drive\_link)
+\- \[All Unmarked X-ray images](https://drive.google.com/drive/folders/1lQnqOzhoF_lGcbVF0_69k9Y0o50ZEL2Q?usp=drive_link)
 
 \- \[All Marked Segmented X-ray grains images](https://drive.google.com/drive/folders/1t9sehfDhNuFIIKvL3x2Ch3G0hVpTNmq-?usp=sharing)
 
